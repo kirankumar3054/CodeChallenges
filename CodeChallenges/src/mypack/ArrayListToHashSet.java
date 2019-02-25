@@ -19,7 +19,7 @@ public class ArrayListToHashSet {
 		System.out.println("ArrayList: "+al);
 		
 		 Set <String> hs = new HashSet <String> (al);
-		 System.out.println("After converting to HashSet : "+hs);
+		 System.out.println("After converting to HashSet: "+hs);
 		
 	}
 
